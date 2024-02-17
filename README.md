@@ -1,0 +1,2 @@
+# majestor
+OCR Using transformers
